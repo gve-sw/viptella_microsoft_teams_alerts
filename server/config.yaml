@@ -1,0 +1,2 @@
+webhook: "https://example.webhook.com"
+port: "5000"
