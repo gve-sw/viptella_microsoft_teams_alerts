@@ -37,7 +37,7 @@ To launch the go webserver:
 
 # Screenshots
 
-![/IMAGES/screenshot.png](/IMAGES/screenshot.png)
+![/IMAGES/screenshot.png](/IMAGES/vmanage-screenshot.png)
 
 ### LICENSE
 
